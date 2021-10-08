@@ -14,3 +14,5 @@ Suggests:
 Config/testthat/edition: 3
 Imports: 
     glue
+URL: https://github.com/chitsidzo-dengura/praiseme2
+BugReports: https://github.com/chitsidzo-dengura/praiseme2/issues
